@@ -51,7 +51,7 @@ const SignUp = () => {
             resizeMode="contain"
             className="w-[115px] h-[34px]"
           />
-
+ 
           <Text className="text-2xl font-semibold text-white mt-10 font-psemibold">
             Sign Up to Aora
           </Text>
